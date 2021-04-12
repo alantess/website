@@ -1,9 +1,28 @@
-.colortext{
-  color:green
-}
-
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&display=swap');
 
 body {
-background-color:black
+background-color: #021033;
+padding:0;
+margin:0;
+font-family: 'DM Mono', monospace;
+}
+
+a {text-decoration:none}
+
+.card-list {
+  display:flex;
+  padding:3rem;
+  overflow-x:scroll
+}
+
+.card{
+  display:flex;
+  position:relative;
+  flex-direction: column;
+  width:350px;
+  height:450px;
+  min-width:250px;
+  padding:1.5rem;
+  border-radius:16px;
 
 }

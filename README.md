@@ -3,10 +3,10 @@ A simple portfolio
 
 
 ## Theme Color Codes
-- Green (Main)- #013220
-- Red (Secondary) - #330617
-- Blue (Tetriary) - #042A33
-- Brighter Red (Detail) - #801700
+- Blue (Main)- #021033 
+- Purple (Secondary) - #594399 
+- Dark Purple (Tetriary) -#100533 
+- Brighter Purple (Detail) - #594399 
 - White (Text)
 
 
