@@ -27,7 +27,8 @@ SECRET_KEY = 'django-insecure-x1ush0*v_z8!uu40)*ja-yx5ut1oa$xcito70b=jcfm@f^h@ij
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    # 'alantessier.com', 'https://alantessier.herokuapp.com', '127.0.0.1'
+    'alantessier.com', 'https://alantessier.herokuapp.com', '127.0.0.1',
+    'https://tessier.herokuapp.com'
 ]
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
