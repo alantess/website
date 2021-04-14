@@ -1,6 +1,14 @@
 # website
-A simple portfolio 
+A simple portfolio website for alantessier.com.
 
+## Installation
+- Built with Django
+
+## Run
+```sh
+   cd website/portfolio 
+   python manage.py runserver 
+  ```
 
 ## Theme Color Codes
 - Blue (Main)- #021033 
