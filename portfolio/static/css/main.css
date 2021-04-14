@@ -47,8 +47,8 @@ a {text-decoration:none;}
   position:relative;
   flex-direction: column;
   width:350px;
-  height:450px;
-  min-height:350px;
+  height:550px;
+  min-height:375px;
   min-width:250px;
   margin:0;
   padding:1.2rem;
@@ -80,7 +80,7 @@ a {text-decoration:none;}
 
 
 .card-header p {
-    font-size: 14px;
+    font-size: 12px;
     margin: 0 0 1rem;
     text-transform:capitalize;  
     color: #806119;
@@ -107,10 +107,11 @@ a {text-decoration:none;}
 
 
 .description { 
-  text-align:justify;
+  text-align:left;
   color:white;
   vertical-align::text-top;
   color: white !important;
+  font-size:13px;
 
 
 }
