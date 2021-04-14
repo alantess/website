@@ -6,3 +6,7 @@ from django.http import HttpResponse
 
 def home(request):
     return render(request, 'acc/dashboard.html')
+
+
+def main(request):
+    return render(request, 'acc/welcome.html')
